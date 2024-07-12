@@ -1,0 +1,8 @@
+{
+  "name": "hminv-app",
+  "app_id": "aab9735f",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
